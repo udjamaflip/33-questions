@@ -18,5 +18,7 @@ The Questions (open to debate)
 ========================
 
 1. Are you male?
-2. Do you live in China, India, The United States, Indonesia, Brazil or Pakistan? 
-3. ...
+2. Are you Muslim or Christian? accounts for ~55% of the world population cite: http://en.wikipedia.org/wiki/List_of_religious_populations
+3. Do you live in China, India, The United States, Indonesia, Brazil or Pakistan? 
+
+
